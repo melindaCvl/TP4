@@ -10,19 +10,14 @@ namespace ExplorateurDossiers
     {
         static void Main(string[] args)
         {
-            // On navigue de dossier en dossier (valeurs à changer en local)
-            DossierProxy dos = new DossierProxy("C:\\Users\\cherr_000\\Desktop\\EPSI", "MSPR");
+            // On part de la racine
+            DossierProxy dos = new DossierProxy("C:\\", null);
             dos.Contenu();
             Console.WriteLine();
 
-            // On parcourt le dossier BDD du répertoire MSPR
-            IArborescence elem = dos.GetElement("BDD");
+            // On parcourt le dossier Windows
+            IArborescence elem = dos.GetElement("Windows");
             elem.Contenu();
-            Console.WriteLine();
-
-            // On parcourt le dossier Rendu du répertoire BDD
-            IArborescence elem2 = elem.GetElement("Rendu");
-            elem2.Contenu();
             Console.WriteLine();
 
             Console.ReadKey();
