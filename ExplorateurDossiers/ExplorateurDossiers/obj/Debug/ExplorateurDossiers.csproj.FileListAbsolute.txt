@@ -1,0 +1,7 @@
+C:\Users\cherr_000\source\repos\ExplorateurDossiers\ExplorateurDossiers\bin\Debug\ExplorateurDossiers.exe.config
+C:\Users\cherr_000\source\repos\ExplorateurDossiers\ExplorateurDossiers\bin\Debug\ExplorateurDossiers.exe
+C:\Users\cherr_000\source\repos\ExplorateurDossiers\ExplorateurDossiers\bin\Debug\ExplorateurDossiers.pdb
+C:\Users\cherr_000\source\repos\ExplorateurDossiers\ExplorateurDossiers\obj\Debug\ExplorateurDossiers.csprojAssemblyReference.cache
+C:\Users\cherr_000\source\repos\ExplorateurDossiers\ExplorateurDossiers\obj\Debug\ExplorateurDossiers.csproj.CoreCompileInputs.cache
+C:\Users\cherr_000\source\repos\ExplorateurDossiers\ExplorateurDossiers\obj\Debug\ExplorateurDossiers.exe
+C:\Users\cherr_000\source\repos\ExplorateurDossiers\ExplorateurDossiers\obj\Debug\ExplorateurDossiers.pdb
